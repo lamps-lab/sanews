@@ -11,7 +11,7 @@ font_size = 40
 plt.rcParams['font.family'] = 'Times New Roman'
 plt.rcParams['font.size'] = font_size
 
-json_file_path = 'ground_truth.json'
+json_file_path = '../data/ground_truth.json'
 
 with open(json_file_path, 'r') as file:
     data = json.load(file)
