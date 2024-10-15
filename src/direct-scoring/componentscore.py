@@ -5,9 +5,7 @@ import csv, json
 import openai
 import tiktoken
 
-
-openai.api_key = "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" # LAMP-SYS
-#openai.api_key = "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" # GPT-4 access
+openai.api_key = ""
 
 encoder = tiktoken.encoding_for_model("gpt-4")
 
@@ -64,10 +62,11 @@ def write_json(file_name, data):
             file.write("\n]")
 
 #news_articles = read_csv('../data/14-18.csv')
-annotated_news_articles = read_json('../src/new_ground_truth.json')
-paper_abstract = read_json('../abstracts.json')
-data_list = read_json('fullscale_method1_test3.json')
-file_name = 'fullscale_onescore_test3.json'
+annotated_news_articles = read_json('../../data/ground_truth.json')
+paper_abstract = read_json('../../data/abstracts.json')
+
+#data_list = read_json('fullscale_method0.json')
+file_name = 'fullscale_method0_onescore.json'
 
 num_articles = 0
 tokens_since_last_sleep = 0
@@ -78,7 +77,7 @@ for data in data_list:
     results = {}
     for key, value in data.items():
         id = int(key)
-        #if id < 10542:
+        #if id < 7073:
         #	num_articles += 1
         #	continue
         print(id)
@@ -99,12 +98,12 @@ for data in data_list:
         for dic in paper_abstract:
         	if id == int(dic['id']):
         		abstract = dic.get('text')
-        summary = value.get("summary_paragraph")
-
+        summary = value.get("generated_article")
+        #exit()
         messages =  [  
             {'role':'system', 'content':'You are an Evaluator who can read/understand scientific papers and scientific news articles written about scientific papers and compare each with a human-written news article.'},    
             {'role':'user', 'content':f"The task is to evaluate scientific news articles, A, which is the annotated ScienceAlert article that is relevant to the scientific paper abstract and another news article, B which is generated based on the research paper abstract using 3 criterias. The comparison is done by giving a score for each news article!"+
-            f"The 3 criterias are: Readability, Comprehensiveness, and Accuracy.\nONLY ANSWER with a score on a scale of 0-10 for each Gold Standard and Generated Article based on my format!\nFormat: R: score\nC: score\nA: score\n \nRead the scientific paper abstract and evaluate the two news articles:\n"+
+            f"The 3 criterias are: Readability, Comprehensiveness, and Accuracy.\nONLY ANSWER with the scores on a scale of 0-10 for each Gold Standard and Generated Article based on my format!\nFormat: R: score\nC: score\nA: score\n \nRead the scientific paper abstract and evaluate the two news articles:\n"+
             f"Research Paper Abstract:{abstract}\nScienceAlert article (Gold Standard): {gold_standard}\nGenerated Article: {summary}"}]
         three_scores, tokens_since_last_sleep = get_completion_from_messages(tokens_since_last_sleep, messages, temperature=0.0, model="gpt-4")
         print(three_scores)
