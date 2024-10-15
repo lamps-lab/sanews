@@ -92,7 +92,7 @@ three = 0
 scidist= {}
 paperdist = {}
 scids = []
-for row in all_data:
+for row in testing_data:
 	urlid = row['id']
 	scid = row['id'].split('-')[0]
 	cat = row['category']
