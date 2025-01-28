@@ -128,7 +128,7 @@ def str2bool(v):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Sequential few-shot with GPT.")
     parser.add_argument('model',      type=str, help='OpenAI model, e.g. "gpt-3.5-turbo" or "gpt-4"')
-    parser.add_argument('api_key',    type=str, help='OpenAI API key', default="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")
+    parser.add_argument('api_key',    type=str, help='OpenAI API key')
     parser.add_argument('guided', type=str2bool, help='True/guided to include guiding instructions, False/unguided otherwise', default=False)
     parser.add_argument('shot',       type=int, help='Number of few-shot examples', default=0)
     parser.add_argument('cat',        type=str, help='Category, e.g. environment, nature, tech, health', default="nature")
