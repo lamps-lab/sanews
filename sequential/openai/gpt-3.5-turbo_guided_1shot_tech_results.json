@@ -1,0 +1,4230 @@
+[
+	{
+    "id": "8528-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3188-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "1047-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7160-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8262-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4110-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8567-1",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8447-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6395-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7953-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "1302-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "8598-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5614-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8726-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2607-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "792-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8008-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4355-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "8109-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2659-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6145-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8687-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "936-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2373-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8289-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2972-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2020-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "7782-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "4373-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "7831-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8142-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by AI."
+},
+{
+    "id": "4318-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8008-1",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7822-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4596-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8705-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2018-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4774-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3873-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7547-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4797-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8040-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3077-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "4797-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2204-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was likely written by AI."
+},
+{
+    "id": "5206-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "8508-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7831-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7749-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "5686-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "9028-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8032-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "7640-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8202-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "6636-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8942-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "10749-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "1642-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8137-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8632-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "10721-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8142-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4758-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "1156-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6898-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "4154-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2887-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "849-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4342-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5928-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "7633-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "3611-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7615-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8705-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "2659-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5744-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2579-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7822-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "10259-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4845-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "4599-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "792-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6898-1",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8520-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5970-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "530-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "330-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8032-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "4110-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "3117-1",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3364-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "330-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "1187-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7494-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "10839-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "4913-2",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5019-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "1175-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "2897-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5744-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7454-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5206-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2938-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "66-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "1590-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5570-1",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2482-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5254-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6626-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8034-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "515-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "4563-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8322-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8425-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5614-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "10259-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7561-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7953-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8545-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "736-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "5928-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7837-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "709-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "2423-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "591-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5570-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5238-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'ai'."
+},
+{
+    "id": "1741-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8842-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "10507-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4827-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8687-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "403-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5225-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4950-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5358-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2454-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7609-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8524-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "6898-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "6066-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "8567-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3280-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4945-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7769-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "1984-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4506-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "2972-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "66-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5134-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8447-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8109-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "98-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "19-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "3364-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2997-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7452-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "7527-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "10593-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "10891-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "2204-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "6235-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "2816-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "10977-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "829-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "8969-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "608-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "3183-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8145-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5532-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "6111-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "8598-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "3526-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "870-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3216-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "1099-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "5704-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "4522-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7982-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "3259-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6206-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7521-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "4652-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4110-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "1595-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "5134-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "3801-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4654-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "2018-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "1156-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8632-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "1956-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "9812-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "3980-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4453-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5086-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "721-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "5998-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "1791-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "2478-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8879-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8949-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7924-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8084-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7718-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "3074-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "4453-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "7553-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "185-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4913-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3246-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8262-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "1115-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "5019-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "This article was written by a human."
+},
+{
+    "id": "8632-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7521-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4689-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "98-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "1442-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "515-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8524-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "5225-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'ai'."
+},
+{
+    "id": "10507-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3966-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "8942-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8183-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "709-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "282-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8927-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7553-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8171-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8198-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "4487-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "5253-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6227-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "736-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4355-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6111-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by AI."
+},
+{
+    "id": "4620-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "10749-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5238-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5686-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8008-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "611-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "8087-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5198-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7866-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "5134-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8405-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "1741-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "10593-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6180-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "6636-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5639-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3676-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "2938-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8156-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5134-1",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5117-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong",
+    "raw_output": "ai"
+},
+{
+    "id": "1187-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7568-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8085-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2579-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "9145-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8710-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4110-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "718-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "19-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "6180-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "591-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "5253-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7454-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "5259-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7718-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "3436-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "1984-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7568-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7426-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7924-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "98-1",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7749-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7995-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7990-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7144-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "1590-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8425-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7769-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4487-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "1175-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7969-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "5346-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6145-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "8626-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "530-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6066-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7615-1",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "155-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "849-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3957-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7866-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "265-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "1186-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "2771-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "2814-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8713-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "8145-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2039-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "972-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "3980-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "721-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "8545-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "1099-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6597-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8346-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "5454-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8586-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "2894-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5259-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8040-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "10542-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "1642-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5212-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4689-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "474-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "5254-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7643-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "3696-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3018-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7995-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5210-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3259-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "2069-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "8508-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "6206-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "4652-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "929-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5391-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "4754-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "4967-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "10673-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "1915-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "7651-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3831-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "3188-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "1442-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "1047-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "2012-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "870-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "1595-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4945-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "8726-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7966-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "1070-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7615-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4483-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4827-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7837-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8436-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8084-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "3117-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "5998-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "5570-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4154-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8520-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8584-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8364-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4509-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "10892-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'ai'."
+},
+{
+    "id": "3218-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3526-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "10977-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "5704-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "4950-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3608-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5391-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "185-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3608-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'ai'."
+},
+{
+    "id": "4774-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The given article appears to be written by a human."
+},
+{
+    "id": "6068-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "9812-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by a human."
+},
+{
+    "id": "7643-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3696-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "9088-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8198-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "10680-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7390-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4596-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3117-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "731-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7969-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "493-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5532-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5891-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5117-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4778-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7651-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "1915-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4913-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7990-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "611-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "1302-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "513-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2997-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2482-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5639-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4087-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'ai'."
+},
+{
+    "id": "3077-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8034-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7633-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2039-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7640-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8087-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7966-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "1219-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8183-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "5570-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7561-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8842-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8236-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "10891-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "4641-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "6883-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "7719-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2607-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5454-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "3218-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "230-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8230-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4758-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3018-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2934-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5557-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8436-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "3117-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8857-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7426-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7782-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "10542-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "492-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "3246-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "1791-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5358-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6898-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "2814-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "10298-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "10892-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "1186-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2816-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5336-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "265-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8236-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7144-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "3074-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8150-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7846-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "4087-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "10721-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2934-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "3966-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7452-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'ai'."
+},
+{
+    "id": "403-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "282-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "8713-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8008-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4522-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2887-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "3676-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "474-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6068-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6235-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "9028-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8137-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "230-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "5198-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "731-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "1956-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2894-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "4373-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "2454-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8346-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8584-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5970-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8171-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7493-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7719-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "5086-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "8156-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7494-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "10673-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2912-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8969-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7609-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3831-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "2373-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8927-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8409-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "5557-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7629-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'ai'."
+},
+{
+    "id": "8879-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "37-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7160-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8632-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "3857-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "7547-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4599-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7527-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2912-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3957-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8528-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "1070-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8202-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4563-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8857-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "4913-1",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8039-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "3216-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "4967-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8405-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'ai'."
+},
+{
+    "id": "8567-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "5212-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "929-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7493-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "608-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7890-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "7390-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8567-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "6626-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "10839-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "10680-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "1219-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7099-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8289-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2897-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "2069-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4173-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "10298-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8949-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "3280-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "513-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "8039-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "936-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6395-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "9088-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8150-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4483-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "8710-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "829-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "3678-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'ai'."
+},
+{
+    "id": "4913-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2020-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "98-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8409-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4778-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "7846-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6597-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4342-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "492-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "718-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8364-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "37-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong",
+    "raw_output": "ai"
+},
+{
+    "id": "3436-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "4620-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8322-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "3611-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8335-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7982-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "6227-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7615-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "3873-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2012-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "9145-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4754-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'ai'."
+},
+{
+    "id": "7890-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "4506-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8230-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "5336-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "8586-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "5210-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "7099-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "2423-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "4173-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "155-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "493-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4913-2",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "3801-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "972-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "2771-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "5346-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "6883-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4641-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4654-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3857-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "3678-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'human'."
+},
+{
+    "id": "1115-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4318-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "8626-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW ARTICLE was written by 'ai'."
+},
+{
+    "id": "4509-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by a human."
+},
+{
+    "id": "8335-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "7629-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "3183-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "5891-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "8085-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'ai'."
+},
+{
+    "id": "2478-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "The NEW article was written by 'human'."
+},
+{
+    "id": "4845-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "The NEW article was written by 'human'."
+}
+]
