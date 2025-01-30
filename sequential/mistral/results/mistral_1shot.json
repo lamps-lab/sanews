@@ -1,0 +1,3626 @@
+[
+	{
+    "id": "5206-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3608-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7640-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "2816-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7521-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "1791-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "6235-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "530-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7099-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "936-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5454-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "474-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7837-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4506-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4913-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8545-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "608-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2018-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "7822-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "66-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8109-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5639-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5891-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "9028-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7609-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "9088-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5254-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4522-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "10593-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1187-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "492-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5704-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "1595-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5532-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "5998-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8879-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8085-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3117-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3117-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8626-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3018-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "6227-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "515-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8632-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4154-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8109-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7837-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "2579-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "9145-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "6068-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8335-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3980-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7651-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "1175-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "7493-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "591-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4652-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4453-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "10721-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5238-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8687-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3259-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3183-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "2972-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8626-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5614-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "608-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "6180-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "5210-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4596-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "4506-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "2887-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "1070-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "5212-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "7782-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3980-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3857-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "7633-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8942-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "10721-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "9812-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4318-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8520-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "5639-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "2997-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "5704-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5225-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8713-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7890-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3676-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "98-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "731-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4487-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8405-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8842-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "10542-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5391-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5346-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4778-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "870-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4599-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2897-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2454-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "3117-1",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8598-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8198-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "330-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "7982-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1047-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "5557-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "6636-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "6898-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "5253-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5614-1",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "5744-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3678-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "5970-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7521-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4913-2",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "870-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "10977-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3801-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2020-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3183-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1590-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "5134-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "8008-1",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "4913-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7568-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7982-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "10673-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3216-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8949-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "5358-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "9812-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2814-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4758-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "1915-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "10673-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "1047-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2478-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1956-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4845-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7160-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8927-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "19-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "4967-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1219-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "230-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "7547-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "6111-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8447-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "6145-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "8084-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3957-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "3280-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7719-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "829-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "2897-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "2204-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5212-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1115-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "4654-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5336-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "6180-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "1442-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "6898-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7769-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "1302-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "265-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1442-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "721-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8405-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8584-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8586-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3611-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1984-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1642-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "2423-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "3246-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8567-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8710-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8087-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8008-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3857-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "5570-1",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "3957-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "849-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "1741-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "10892-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7995-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "792-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "1186-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "282-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8364-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "2069-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5117-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1642-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1741-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7390-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2912-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2373-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3280-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5134-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4620-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8137-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "6626-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "736-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "10892-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5970-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "1156-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "98-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "591-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "5198-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8927-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7493-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "9028-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4778-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3696-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4483-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8436-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "972-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "929-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2482-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4509-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "330-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "718-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8008-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "4967-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "98-1",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "10680-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4154-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5134-1",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "3074-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8425-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7494-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "5019-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8145-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "7633-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7452-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8040-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8171-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7643-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "5336-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "155-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8150-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "4599-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "1115-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "4774-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3436-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8949-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "185-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4453-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "6898-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5557-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "474-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8145-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "7527-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4652-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "6206-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "3364-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7609-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4483-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3364-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "7953-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8346-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "709-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "2816-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4913-1",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "9088-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "6066-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7615-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3218-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "1302-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "515-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8632-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1791-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "10891-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "10749-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7782-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "6066-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "5238-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4509-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "3246-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "5532-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8425-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8524-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "8632-1",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8969-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8520-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "2894-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "6626-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4797-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8857-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4774-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "8586-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "10298-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8687-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7831-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "8040-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7561-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8942-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "3526-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "721-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "6597-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "6235-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4110-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "5928-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "6883-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "10680-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7629-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "3676-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4342-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "611-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "6111-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3678-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4758-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8202-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "829-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "10507-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "1099-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7643-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7966-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "1956-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "5117-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "5259-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8032-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1984-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7144-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4355-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "7615-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "972-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "5346-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8289-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4173-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "403-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8409-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8528-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8364-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "3831-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "7568-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3608-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4754-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4641-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8202-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "6206-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4950-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "4087-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "8039-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "6898-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4641-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7160-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8710-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "7924-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2912-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7390-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7749-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "2887-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8262-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "8034-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "6068-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1590-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "7990-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "4654-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8322-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "2607-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "7426-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8842-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "5086-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "7452-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8137-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "230-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4522-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8726-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7561-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8598-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "6145-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "8230-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8346-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8289-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "736-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "6227-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "10259-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "709-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8409-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "5019-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "4342-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "2454-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8713-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8008-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "2039-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3831-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2069-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "7831-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4355-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "10298-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "10507-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8142-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "10977-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3801-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "5225-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1915-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8584-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "792-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4945-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7527-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5686-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5391-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7553-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1187-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "929-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3117-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2204-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8632-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7099-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4689-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "7144-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "2012-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1070-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8085-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2478-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "10891-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "2579-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "1156-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3188-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8524-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "1595-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8508-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8857-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "493-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3966-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8545-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "849-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "10542-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "4913-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7953-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8156-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2659-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1186-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4945-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5744-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8726-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8183-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3218-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3018-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "2039-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7651-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "282-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2938-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2934-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "185-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "5570-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "2482-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8879-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "3873-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2814-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2934-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8508-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7454-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "4563-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "2020-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7494-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7553-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "2373-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4913-2",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "37-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "1175-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4950-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5891-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "2607-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "155-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7629-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8236-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "7454-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7615-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7995-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "936-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "10839-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4373-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8335-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5454-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8322-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8032-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "6395-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5358-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4487-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "5259-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8198-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3436-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2771-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "6636-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4173-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4373-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7866-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3188-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7924-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8156-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "10839-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "1219-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3077-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7719-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8447-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "7769-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "5254-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4110-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "492-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4110-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "8171-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4827-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8528-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "7749-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8567-1",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "6597-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7822-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3077-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2771-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "9145-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2659-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "493-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4689-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8039-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "8236-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "5206-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "37-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8183-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3611-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "4110-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8567-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4563-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5198-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2997-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7890-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "2018-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "10259-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5570-1",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7846-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3696-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7426-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4087-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8034-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5253-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7866-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4318-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "2938-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7547-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5998-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "10749-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2894-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2012-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7846-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3074-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5210-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8084-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8087-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2423-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8262-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8567-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7969-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "4797-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4845-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "5086-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5686-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7966-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5928-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "10593-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "3966-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3873-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "98-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4620-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "2972-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong"
+},
+{
+    "id": "19-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7718-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7615-1",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8705-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3216-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "7640-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8142-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7718-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8230-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "718-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "8150-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "513-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7990-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "4754-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "4827-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "6883-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "513-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "4596-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "8705-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "530-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "1099-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "5134-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "6395-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "7969-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "731-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "3259-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "403-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "265-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct"
+},
+{
+    "id": "8969-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "66-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "611-0",
+    "true_label": "human",
+    "predicted_label": "ai",
+    "verdict": "wrong"
+},
+{
+    "id": "8436-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "5570-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+},
+{
+    "id": "3526-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct"
+}
+]
