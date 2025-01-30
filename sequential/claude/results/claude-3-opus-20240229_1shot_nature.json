@@ -1,0 +1,1402 @@
+[
+	{
+    "id": "611-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "185-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "709-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "7831-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "9028-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "1590-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "3018-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "5891-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "5134-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "5346-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "4110-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "8524-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human\n\nThe article about the naming of Pluto's geographic features appears to be written by a human. It discusses the official approval of names by the International"
+},
+{
+    "id": "8322-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "1590-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "2607-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "66-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human\n\nThe article appears to be written by a human based on its structure, content, and writing style. It discusses a scientific study published in the journal"
+},
+{
+    "id": "2816-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "1156-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "6235-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "513-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "4652-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "6898-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human\n\nThe given article appears to be written by a human based on its style, content, and structure. It discusses philosophical and scientific perspectives on the relationship between"
+},
+{
+    "id": "1070-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "2816-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "492-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8145-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "5891-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "3857-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "7553-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "8425-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "1070-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "5744-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "98-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "870-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "3857-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "265-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "1595-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8032-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "6626-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "3611-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "3980-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "493-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8109-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "4827-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "8364-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "2579-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "5134-1",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "6066-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8842-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "4652-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "8567-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "5346-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "2997-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "7995-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "3696-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8364-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "4913-2",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "1595-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "9028-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8008-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8087-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "6898-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "2482-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8289-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "5391-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "3436-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "8705-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8842-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "8447-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "5259-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "513-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "1187-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "792-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8289-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "5358-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "1642-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "5686-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "792-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "591-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "5019-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "2997-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "3436-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "7099-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "5391-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "870-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human\n\nThe article discusses a recent scientific study and its potential implications in an engaging, conversational style. It includes humorous elements and analogies to explain the"
+},
+{
+    "id": "4654-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "7099-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "4509-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "3364-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "3280-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "611-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "3280-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8586-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "2938-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "5454-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "5019-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "5259-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "2020-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "8942-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "2607-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "7831-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "5210-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "10507-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "4483-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "7561-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "3980-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "8109-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "7651-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "10593-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "1741-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "185-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "8202-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "7718-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "4913-2",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "98-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human\n\nThe article about using cigarette ash to remove arsenic from water appears to be written by a human. It contains specific details and context about the problem"
+},
+{
+    "id": "8202-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "10749-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "3188-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "5198-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "2454-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "2938-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "6066-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "1984-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "7527-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "5686-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "1219-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "2454-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8710-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "265-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human\n\nThe article you provided appears to be a human-written article, based on several key characteristics:\n\n1. It discusses a specific scientific study and its"
+},
+{
+    "id": "7718-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "7160-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8322-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "1187-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "7160-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "5210-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8710-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "6626-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "591-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "7527-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "492-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "4654-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human\n\nThe article about the EM drive appears to be written by a human, not AI-generated. A few key indicators:\n\n1. The writing"
+},
+{
+    "id": "1156-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "5358-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "5198-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8586-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "7553-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "2020-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "1741-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "2659-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "3018-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "7995-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "2482-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "2894-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "66-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "8567-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "3611-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "4342-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "1984-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "10749-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8008-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "5744-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "10593-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "4509-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "8447-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "8145-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "10507-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "8425-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8545-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "4342-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "1642-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "3188-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "7651-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "2423-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8942-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "7426-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "9812-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "6235-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human\n\nThe article about the discovery of the brightest gamma-ray binary system outside the Milky Way galaxy appears to be written by a human. It"
+},
+{
+    "id": "2894-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8524-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "3676-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "1219-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human\n\nThe article about using tampons to detect sewage pollution in waterways appears to be written by a human. It discusses a novel and unconventional"
+},
+{
+    "id": "3676-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "3364-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "493-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "7426-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "709-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "4110-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "2423-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "raw_output": "human"
+},
+{
+    "id": "3696-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "8032-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "2579-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "4483-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "8545-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "9812-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "2659-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "5454-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "7561-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "8705-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "raw_output": "ai"
+},
+{
+    "id": "8087-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+},
+{
+    "id": "4827-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "raw_output": "human"
+}
+]
