@@ -3610,5 +3610,621 @@
     "predicted_label": "ai",
     "verdict": "correct",
     "output": "</think>\n\nai"
+},
+{
+    "id": "155-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "5639-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "929-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "7629-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "2997-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "493-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "7615-1",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "1047-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "7822-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "8726-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "8584-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "608-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "3608-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "8949-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "10839-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "5117-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "3857-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "2020-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "8109-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "8409-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "2482-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "10839-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "8520-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "6636-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "7521-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "5212-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "4596-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "7749-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "4641-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "3117-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "8171-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "19-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "1302-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "9088-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "8567-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "591-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "5336-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman\n</think>\n\nhuman"
+},
+{
+    "id": "2934-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "4522-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "4827-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "7615-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "6235-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "403-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "265-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "8142-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "7099-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "5998-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "7831-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "98-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "3436-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "8632-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "7390-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "8085-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "8262-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "5210-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "8262-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "2887-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "5614-1",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "8032-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "7160-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "8447-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "2607-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "5358-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "736-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "4654-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "7633-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "8039-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "4689-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "4110-1",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "3364-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "591-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "4563-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "8236-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "5532-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "3183-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "2972-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "7452-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "8528-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "10680-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "185-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "718-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "4087-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "5998-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "1741-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "3188-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "10891-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "972-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "8084-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
 }
 ]
