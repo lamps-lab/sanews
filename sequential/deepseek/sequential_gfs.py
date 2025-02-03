@@ -61,9 +61,19 @@ def build_fewshot_prompt(shots, category, guided, in_domain_examples, out_domain
         )
     if guided:
         prompt += (
-            "\nThe characteristics of a human-written articles have a more conversational and narrative tone.\n"
-            "AI-generated content is often more analytical, with possible hallucinations.\n"
-            "Now, decide if a new article is 'human' or 'ai'. Answer with a single word: 'human' or 'ai' ONLY.\n"
+            """
+            \nThe characteristics of a human-written articles have a more conversational and narrative tone.
+ They may also include more details that are not present in the scientific paper abstract.
+Human-written articles may be less precise and may lack the analytical depths that are found in AI-generated content.
+ 
+AI-generated content have a lot more sophisticated language and structure than human-written articles.
+They may have hallucinations that are not present in the paper abstract.
+Repeating similar terms over and over may also be characteristic of an AI-generated article.
+AI-generated content may directly reference the abstract's content in a more detailed and analytical manner.
+They also entail more information and scientific terminology about the study.
+In light of these characteristics, determine if the following article is Human-written or AI-generated.\n
+Now, decide if a new article is 'human' or 'ai'. Answer with a single word: 'human' or 'ai' ONLY.\n
+        """
         )
     else:
         prompt += (
@@ -84,7 +94,7 @@ def classify_with_mistral(model, tokenizer, system_text, user_text, temperature=
     output = model.generate(
         input_ids,
         attention_mask=attention_mask,
-        max_new_tokens=512,
+        max_new_tokens=256,
         temperature=temperature,
         do_sample=True,
         top_p=0.9,
@@ -128,14 +138,6 @@ if __name__ == "__main__":
                         help='Where to store the classification results.')
     args = parser.parse_args()
 
-    # Initialize Accelerator + Model
-    accelerator = Accelerator()
-    tokenizer = AutoTokenizer.from_pretrained(args.model)
-    model = AutoModelForCausalLM.from_pretrained(
-        args.model,
-        device_map="auto"
-    )
-    model = accelerator.prepare(model)
 
     # Prepare training examples
     all_train_examples = read_json(args.train_file)
@@ -150,21 +152,93 @@ if __name__ == "__main__":
     # Build few-shot portion
     fewshot_prompt = build_fewshot_prompt(args.shot, args.cat, args.guided, in_domain_ex, out_domain_ex)
 
-    # Load testing data
+    # if the output file exist, let us read it and see if we can reuse some generation
+    # Build dict mapping id -> set(true_label)
+    existing_labels = {}
+    if os.path.exists(args.out_file):
+        data = read_json(args.out_file)
+        print(f"llength of items in output datafile: {len(data)}")
+        for item in data:
+            key = item.get("id", "unknown")
+            label = item.get("true_label", None)
+            if label is not None:
+                existing_labels.setdefault(key, set()).add(label)
+
     data_test = read_json(args.test_file)
     labeled_data = []
     for item in data_test:
-        item_id = item.get("id","unknown")
+        item_id = item.get("id", "unknown")
+
+
+        # Prepare a dict for possible new labels with their corresponding text
+        possible = {}
         if "annotation" in item:
-            labeled_data.append((item_id, item["annotation"], "human"))
+            possible["human"] = item["annotation"]
         if "generated_article" in item:
-            labeled_data.append((item_id, item["generated_article"], "ai"))
+            possible["ai"] = item["generated_article"]
+
+        if not possible:
+            continue
+
+        # For each label in this test item, add if not already recorded
+        for label, text in possible.items():
+            # If this id already has both labels, skip adding new ones.
+            if item_id in existing_labels and len(existing_labels[item_id]) == 2:
+                continue
+            # If the label is already recorded, skip it.
+            if item_id in existing_labels and label in existing_labels[item_id]:
+                continue        # Check for conflicts or duplication
+            # Otherwise, add the new label record.
+            labeled_data.append((item_id, text, label))
+            # Update the existing_labels for subsequent checks.
+            existing_labels.setdefault(item_id, set()).add(label)
+            
+        #if item_id in existing_labels:
+        #    # If already has both labels, exclude
+        #    if len(existing_labels[item_id]) > 1:
+        #        continue
+        #    # If new label is already recorded, skip this annotation
+        #    if existing_labels[item_id] & new_labels:
+        #        continue
+        #    # If adding new label would result in both labels, mark as conflict and skip
+        #    #if len(existing_labels[item_id] | new_labels) > 1:
+        #    #    continue
+
+        # No conflicts: append each label individually
+        #for label in new_labels:
+        #    labeled_data.append((item_id, item.get("annotation") if label=="human" else item.get("generated_article"), label))
+
+    #print(f"existing_labels: {existing_labels}\nlabeled_data: {labeled_data}")
+    print(f"read {len(existing_labels)} samples,\n{len(labeled_data)} samples remaining")
+    #exit()
+    # If output file exists, read it and identify all ids
+    #if os.path.exists(args.out_file):
+    #    data = read_json(args.out_file)
+    #    ids = data
+    #    #os.remove(args.out_file)
+
+    # Load testing data
+    #data_test = read_json(args.test_file)
+    #labeled_data = []
+    #for item in data_test:
+    #    item_id = item.get("id","unknown")
+    #    if "annotation" in item:
+    #        if item_id in ids[item_id] and ids[item_id] == 'human':
+    #            continue
+    #        labeled_data.append((item_id, item["annotation"], "human"))
+    #    if "generated_article" in item:
+    #        labeled_data.append((item_id, item["generated_article"], "ai"))
 
     random.shuffle(labeled_data)
 
-    # If output file exists, remove it
-    if os.path.exists(args.out_file):
-        os.remove(args.out_file)
+    # Initialize Accelerator + Model
+    accelerator = Accelerator()
+    tokenizer = AutoTokenizer.from_pretrained(args.model)
+    model = AutoModelForCausalLM.from_pretrained(
+        args.model,
+        device_map="auto"
+    )
+    model = accelerator.prepare(model)
 
     correct = 0
     total = 0
@@ -175,7 +249,7 @@ if __name__ == "__main__":
         user_text = (f"{fewshot_prompt}\nARTICLE:\n{article_text}\n"
                      "Answer with a single word ONLY: 'human' or 'ai'?\n")
         output, label = classify_with_mistral(model, tokenizer,
-                                          system_text="You are a domain expert evaluator.",
+                                          system_text="You are a domain expert evaluator. Think briefly (max 64 tokens), and just answer with 'human' or 'ai'",
                                           user_text=user_text,
                                           temperature=0.001)
         print(f"after thinking tokens: {label}")
