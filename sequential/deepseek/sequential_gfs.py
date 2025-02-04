@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-
 import os
 import sys
 import json
@@ -35,9 +34,6 @@ def format_messages(messages):
 
 # Build few-shot prompt
 def build_fewshot_prompt(shots, category, guided, in_domain_examples, out_domain_examples):
-    """
-    Keeps the same logic as the llama code, but you can adapt if needed.
-    """
     in_domain_cats = ['environment','health','nature','tech']
     in_domain = category in in_domain_cats
 
@@ -193,41 +189,8 @@ if __name__ == "__main__":
             # Update the existing_labels for subsequent checks.
             existing_labels.setdefault(item_id, set()).add(label)
             
-        #if item_id in existing_labels:
-        #    # If already has both labels, exclude
-        #    if len(existing_labels[item_id]) > 1:
-        #        continue
-        #    # If new label is already recorded, skip this annotation
-        #    if existing_labels[item_id] & new_labels:
-        #        continue
-        #    # If adding new label would result in both labels, mark as conflict and skip
-        #    #if len(existing_labels[item_id] | new_labels) > 1:
-        #    #    continue
 
-        # No conflicts: append each label individually
-        #for label in new_labels:
-        #    labeled_data.append((item_id, item.get("annotation") if label=="human" else item.get("generated_article"), label))
-
-    #print(f"existing_labels: {existing_labels}\nlabeled_data: {labeled_data}")
     print(f"read {len(existing_labels)} samples,\n{len(labeled_data)} samples remaining")
-    #exit()
-    # If output file exists, read it and identify all ids
-    #if os.path.exists(args.out_file):
-    #    data = read_json(args.out_file)
-    #    ids = data
-    #    #os.remove(args.out_file)
-
-    # Load testing data
-    #data_test = read_json(args.test_file)
-    #labeled_data = []
-    #for item in data_test:
-    #    item_id = item.get("id","unknown")
-    #    if "annotation" in item:
-    #        if item_id in ids[item_id] and ids[item_id] == 'human':
-    #            continue
-    #        labeled_data.append((item_id, item["annotation"], "human"))
-    #    if "generated_article" in item:
-    #        labeled_data.append((item_id, item["generated_article"], "ai"))
 
     random.shuffle(labeled_data)
 
