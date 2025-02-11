@@ -206,7 +206,7 @@ if __name__ == "__main__":
         total += 1
         user_text = (f"{fewshot_prompt}\nARTICLE:\n{article_text}\n"
                      "Answer with a single word ONLY: 'human' or 'ai'?\n")
-        output, label = classify_with_mistral(model, tokenizer,
+        output, label = classify_with_deepseek(model, tokenizer,
                                           system_text="You are a domain expert evaluator. Think briefly (max 64 tokens), and just answer with 'human' or 'ai'",
                                           user_text=user_text,
                                           temperature=0.001)
