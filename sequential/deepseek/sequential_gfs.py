@@ -77,8 +77,8 @@ Now, decide if a new article is 'human' or 'ai'. Answer with a single word: 'hum
         )
     return prompt
 
-# Classification with Mistral
-def classify_with_mistral(model, tokenizer, system_text, user_text, temperature=0.001):
+# Classification with deepseek
+def classify_with_deepseek(model, tokenizer, system_text, user_text, temperature=0.001):
     messages = [
         {"role":"system", "content": system_text},
         {"role":"user",   "content": user_text},
