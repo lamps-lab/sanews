@@ -98,11 +98,12 @@ def classify_with_deepseek(model, tokenizer, system_text, user_text, temperature
     )
     decoded = tokenizer.decode(output[0][input_ids.shape[-1]:], skip_special_tokens=True)
     print(f"decoded: {decoded}")
+    reasoning = ""
     if "</think>" in decoded:
-        label = decoded.split("</think>")[1]
+        reasoning, label = decoded.split("</think>")[0], decoded.split("</think>")[1]
     else:
         label = decoded
-    return decoded, label
+    return decoded, reasoning, label
 
 def str2bool(v):
     if isinstance(v, bool):
@@ -119,16 +120,16 @@ def str2bool(v):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Sequentially feed articles to Mistral with few-shot context.")
     parser.add_argument('--model', type=str, default="deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
-                        help='Mistral model repo.')
+                        help='HuggingFace Model repo.')
     parser.add_argument('--guided', type=str2bool, default=True,
                         help='Whether to include guiding hints in the prompt.')
     parser.add_argument('--shot', type=int, default=0,
                         help='Number of few-shot examples.')
     parser.add_argument('--cat', type=str, default='environment',
                         help='Category for examples, e.g. environment, tech, health, nature.')
-    parser.add_argument('--train_file', type=str, default='../../../training_data.json',
+    parser.add_argument('--train_file', type=str, default='../../data/training_data.json',
                         help='Path to JSON with "abstract", "annotation", "generated_article", "category".')
-    parser.add_argument('--test_file',  type=str, default='../../../data/testing_data.json',
+    parser.add_argument('--test_file',  type=str, default='../../data/testing_data.json',
                         help='Path to JSON with items that have "annotation" and "generated_article".')
     parser.add_argument('--out_file',   type=str, default='deepseek_seq_fewshot_results.json',
                         help='Where to store the classification results.')
@@ -206,7 +207,7 @@ if __name__ == "__main__":
         total += 1
         user_text = (f"{fewshot_prompt}\nARTICLE:\n{article_text}\n"
                      "Answer with a single word ONLY: 'human' or 'ai'?\n")
-        output, label = classify_with_deepseek(model, tokenizer,
+        output, reasoning, label = classify_with_deepseek(model, tokenizer,
                                           system_text="You are a domain expert evaluator. Think briefly (max 64 tokens), and just answer with 'human' or 'ai'",
                                           user_text=user_text,
                                           temperature=0.001)
@@ -222,6 +223,7 @@ if __name__ == "__main__":
             "id": item_id,
             "true_label": true_label,
             "predicted_label": predicted,
+            "reasoning": reasoning,
             "verdict": verdict,
             "output": output 
         }
