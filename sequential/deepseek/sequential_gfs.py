@@ -118,7 +118,7 @@ def str2bool(v):
 # Main
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Sequentially feed articles to Mistral with few-shot context.")
-    parser.add_argument('--model', type=str, default="mistralai/Mistral-7B-Instruct-v0.3",
+    parser.add_argument('--model', type=str, default="deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
                         help='Mistral model repo.')
     parser.add_argument('--guided', type=str2bool, default=True,
                         help='Whether to include guiding hints in the prompt.')
@@ -130,23 +130,18 @@ if __name__ == "__main__":
                         help='Path to JSON with "abstract", "annotation", "generated_article", "category".')
     parser.add_argument('--test_file',  type=str, default='../../../data/testing_data.json',
                         help='Path to JSON with items that have "annotation" and "generated_article".')
-    parser.add_argument('--out_file',   type=str, default='mistral_seq_fewshot_results.json',
+    parser.add_argument('--out_file',   type=str, default='deepseek_seq_fewshot_results.json',
                         help='Where to store the classification results.')
     args = parser.parse_args()
 
 
     # Prepare training examples
-    all_train_examples = read_json(args.train_file)
-    def split_in_out_domain(examples, cats_in_domain):
-        ind = [ex for ex in examples if ex['category'] in cats_in_domain]
-        out = [ex for ex in examples if ex['category'] not in cats_in_domain]
-        return ind, out
-
+    train_examples = read_json(args.train_file)
     in_domain_cats = ['environment','health','nature','tech']
-    in_domain_ex, out_domain_ex = split_in_out_domain(all_train_examples, in_domain_cats)
-
+    ind = [ex for ex in train_examples if ex['category'] in in_domain_cats]
+    out = [ex for ex in train_examples if ex['category'] not in in_domain_cats]
     # Build few-shot portion
-    fewshot_prompt = build_fewshot_prompt(args.shot, args.cat, args.guided, in_domain_ex, out_domain_ex)
+    fewshot_prompt = build_fewshot_prompt(args.shot, args.cat, args.guided, ind, out)
 
     # if the output file exist, let us read it and see if we can reuse some generation
     # Build dict mapping id -> set(true_label)

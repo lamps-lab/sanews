@@ -1,0 +1,50 @@
+[
+	{
+    "id": "2607-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "8969-0",
+    "true_label": "ai",
+    "predicted_label": "human",
+    "verdict": "wrong",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "2897-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "4599-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+},
+{
+    "id": "3077-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "7953-0",
+    "true_label": "ai",
+    "predicted_label": "ai",
+    "verdict": "correct",
+    "output": "</think>\n\nai"
+},
+{
+    "id": "5532-0",
+    "true_label": "human",
+    "predicted_label": "human",
+    "verdict": "correct",
+    "output": "</think>\n\nhuman"
+}
